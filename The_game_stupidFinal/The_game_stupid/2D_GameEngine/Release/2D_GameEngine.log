@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+﻿  2D_GameEngine.vcxproj -> C:\Users\Huawei\Desktop\The_game_stupid2\The_game_stupid\Release\2D_GameEngine.exe
+=======
+﻿  bot_fight.cpp
+C:\Users\milni\Course_work\The_game_stupid\2D_GameEngine\bot_fight.cpp(40,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  2 of 102 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  2D_GameEngine.vcxproj -> C:\Users\milni\Course_work\The_game_stupid\Release\2D_GameEngine.exe
+>>>>>>> 6c4ad19 (5th)

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+<<<<<<< HEAD
+      <FullPath>C:\Users\Huawei\Desktop\The_game_stupid2\The_game_stupid\Release\2D_GameEngine.exe</FullPath>
+=======
+      <FullPath>C:\Users\milni\Course_work\The_game_stupid\Release\2D_GameEngine.exe</FullPath>
+>>>>>>> 6c4ad19 (5th)
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
